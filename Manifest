@@ -3,3 +3,4 @@ Manifest
 README
 Rakefile
 lib/ups_time_in_transit.rb
+ups_time_in_transit.gemspec
